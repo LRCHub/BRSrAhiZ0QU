@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イェイェ",
+  "base_artist": "きゅるりんってしてみて",
+  "createdAt": "2025-12-14T19:01:44.310706Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イェイェ",
+      "artist": "きゅるりんってしてみて",
+      "has_synced": false,
+      "path": "select/pl_01_イェイェ_きゅるりんってしてみて.txt"
+    }
+  ]
+}
